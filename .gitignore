@@ -1,0 +1,7 @@
+# ggf. anpassen – typische Ausschlüsse
+*.log
+*.tmp
+*.lock
+*.bak
+.DS_Store
+Thumbs.db
